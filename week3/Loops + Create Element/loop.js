@@ -4,8 +4,7 @@
         var hello = document.createElement("h1");
         hello.innerText = "Hello World";
         document.body.appendChild(hello); 
-        //document.getElementsByTagName("hello")[i].setAttribute("color", "blue");
-    }
+        }
 })();
 
 //array//
